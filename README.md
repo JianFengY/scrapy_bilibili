@@ -1,0 +1,2 @@
+# scrapy_bilibili
+使用Fiddler分析手机Bilibili客户端请求，Scrapy编写的图片爬虫程序
